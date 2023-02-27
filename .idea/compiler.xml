@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="TaskJDBC" />
         <module name="learnSQL" />
+        <module name="learnSQL2" />
       </profile>
     </annotationProcessing>
   </component>
